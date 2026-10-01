@@ -1,0 +1,1175 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "destinations": "Destinations",
+    "login": "Login",
+    "signup": "Sign Up",
+    "searchPlaceholder": "Search destinations...",
+    "language": "Language",
+    "logout": "Logout",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu",
+    "loadingAccount": "Loading account"
+  },
+  "accessibility": {
+    "skipToMain": "Skip to main content"
+  },
+  "terms": {
+    "eyebrow": "Legal",
+    "title": "Terms & Conditions",
+    "intro": "These Terms & Conditions explain the rules that apply when you use the Rhino Tours & Travels website, submit an enquiry, create an account or interact with our services.",
+    "lastUpdated": "Last updated: September 2026",
+
+    "sections": [
+      {
+        "title": "1. Acceptance of Terms",
+        "paragraphs": [
+          "By accessing or using the Rhino Tours & Travels website, you agree to these Terms & Conditions. If you do not agree with these terms, please do not use the website or submit information through our services."
+        ]
+      },
+      {
+        "title": "2. About Our Website",
+        "paragraphs": [
+          "Rhino Tours & Travels provides information about destinations, travel experiences and related tourism services across Northeast India.",
+          "Information displayed on the website is intended to help travellers explore available options and submit enquiries. Website content does not by itself constitute a confirmed booking or contractual reservation."
+        ]
+      },
+      {
+        "title": "3. Travel Enquiries",
+        "paragraphs": [
+          "When you submit an enquiry, you may provide information such as your name, email address, phone number, preferred destination, travel dates, number of travellers, trip type and additional travel requirements.",
+          "Submitting an enquiry does not guarantee availability, pricing or confirmation of any travel service. A booking becomes confirmed only after Rhino Tours & Travels communicates the applicable itinerary, price, availability and booking conditions and the traveller accepts those arrangements."
+        ]
+      },
+      {
+        "title": "4. Prices and Availability",
+        "paragraphs": [
+          "Travel prices, accommodation, transport, activities, permits and other services may vary depending on availability, season, travel dates, group size and third-party service providers.",
+          "Any prices discussed during an enquiry are subject to confirmation before a booking is finalized."
+        ]
+      },
+      {
+        "title": "5. User Accounts",
+        "paragraphs": [
+          "Certain features may allow you to create or access an account using email authentication or supported third-party sign-in services.",
+          "You are responsible for maintaining the security of your account and for information submitted through it. You should notify us if you believe your account is being used without authorization."
+        ]
+      },
+      {
+        "title": "6. Reviews",
+        "paragraphs": [
+          "Authenticated users may be able to submit ratings, comments and optional location information about their travel experience.",
+          "Reviews should reflect genuine experiences and must not contain unlawful, abusive, misleading, defamatory, discriminatory, threatening or inappropriate content."
+        ],
+        "items": [
+          "Do not impersonate another person.",
+          "Do not submit spam or promotional content as a review.",
+          "Do not publish private or confidential information about another person.",
+          "Do not intentionally submit false or misleading information."
+        ]
+      },
+      {
+        "title": "7. WhatsApp Communications",
+        "paragraphs": [
+          "If you voluntarily provide your phone number and choose to receive WhatsApp communications, Rhino Tours & Travels may send messages relating to your enquiry, travel request or other relevant service updates.",
+          "WhatsApp communications will only be used in connection with the services and permissions described to you. You may choose not to provide WhatsApp consent."
+        ]
+      },
+      {
+        "title": "8. Website Content",
+        "paragraphs": [
+          "Destination descriptions, itineraries, photographs, travel information and other website content are provided for general informational purposes.",
+          "Conditions at destinations may change due to weather, road conditions, government restrictions, seasonal closures, local regulations or other circumstances beyond our control."
+        ]
+      },
+      {
+        "title": "9. Third-Party Services",
+        "paragraphs": [
+          "Travel arrangements may involve third-party providers such as hotels, transport operators, guides, activity providers and other tourism services.",
+          "The availability and performance of third-party services may be subject to their own policies, terms and operational conditions."
+        ]
+      },
+      {
+        "title": "10. Acceptable Use",
+        "paragraphs": [
+          "You agree not to misuse the website or attempt to interfere with its normal operation."
+        ],
+        "items": [
+          "Do not attempt unauthorized access to accounts, servers or systems.",
+          "Do not introduce malicious software, automated abuse or harmful code.",
+          "Do not use the website for unlawful or fraudulent purposes.",
+          "Do not attempt to collect information about other users without authorization."
+        ]
+      },
+      {
+        "title": "11. Intellectual Property",
+        "paragraphs": [
+          "Unless otherwise stated, website branding, original text, graphics, layout and other original materials associated with Rhino Tours & Travels may not be copied, reproduced or commercially used without appropriate permission.",
+          "Third-party trademarks, images or materials remain the property of their respective owners."
+        ]
+      },
+      {
+        "title": "12. Service Changes",
+        "paragraphs": [
+          "We may update, modify, suspend or discontinue parts of the website or its features when necessary for maintenance, security, operational or business reasons."
+        ]
+      },
+      {
+        "title": "13. Limitation of Website Information",
+        "paragraphs": [
+          "While reasonable efforts are made to keep travel information accurate, Rhino Tours & Travels cannot guarantee that all website information will always be complete, current or error-free.",
+          "Travellers should confirm important travel requirements, availability and arrangements before making travel decisions."
+        ]
+      },
+      {
+        "title": "14. Changes to These Terms",
+        "paragraphs": [
+          "These Terms & Conditions may be updated when our services, website features or operational practices change. The latest version will be published on this page together with the date of the most recent update."
+        ]
+      }
+    ],
+
+    "contact": {
+      "title": "Questions About These Terms",
+      "description": "If you have questions about these Terms & Conditions, please contact Rhino Tours & Travels through the contact information provided on our website."
+    }
+  },
+  "privacy": {
+    "eyebrow": "Privacy",
+    "title": "Privacy Policy",
+    "intro": "This Privacy Policy explains what information Rhino Tours & Travels collects through this website, why we use it and how it may be stored or shared when you use our services.",
+    "lastUpdated": "Last updated: September 2026",
+
+    "sections": [
+      {
+        "title": "1. Information We Collect",
+        "paragraphs": [
+          "We collect personal information only when it is required to provide website features, respond to travel enquiries, manage user accounts or support other services requested by you."
+        ],
+        "items": [
+          "Name and email address associated with your account.",
+          "Profile photo and sign-in provider information when available through supported authentication services.",
+          "Phone number when you submit a travel enquiry.",
+          "Preferred destination, travel dates, number of travellers, trip type and other information included in your enquiry.",
+          "Ratings, review comments and optional location information submitted through the review feature.",
+          "Your choice about whether you consent to receive WhatsApp communications."
+        ]
+      },
+      {
+        "title": "2. Account and Authentication Information",
+        "paragraphs": [
+          "The website uses Firebase Authentication to provide account registration and sign-in features, including email authentication and supported third-party sign-in options.",
+          "Rhino Tours & Travels does not store your account password in its own database. Authentication credentials are handled by the authentication provider.",
+          "After authentication, limited account information such as your user identifier, name, email address, profile photo and sign-in provider may be stored in our application database so that website features can be associated with your account."
+        ]
+      },
+      {
+        "title": "3. Travel Enquiry Information",
+        "paragraphs": [
+          "When you submit a travel enquiry, we may collect your name, email address, phone number, destination preference, travel dates, number of travellers, trip type and any additional message you provide.",
+          "This information is used to understand your travel requirements, respond to your enquiry and communicate with you about relevant travel services."
+        ]
+      },
+      {
+        "title": "4. WhatsApp Communications",
+        "paragraphs": [
+          "If you provide your phone number and voluntarily choose to receive WhatsApp communications, we may use your number to send messages related to your travel enquiry or relevant service updates.",
+          "WhatsApp consent is optional. Submitting an enquiry does not require you to consent to WhatsApp communications.",
+          "WhatsApp messages may be delivered using services provided by Meta and may therefore be processed according to the applicable policies of that service provider."
+        ]
+      },
+      {
+        "title": "5. Reviews",
+        "paragraphs": [
+          "Authenticated users may submit ratings, comments and optional location information through the review feature.",
+          "A review may be associated with your account name and profile photo so that it can be displayed as part of the website's review section.",
+          "Information you intentionally include in a published review may be visible to other visitors of the website."
+        ]
+      },
+      {
+        "title": "6. How We Use Your Information",
+        "paragraphs": [
+          "Personal information collected through the website may be used for the following purposes:"
+        ],
+        "items": [
+          "To create and manage user accounts.",
+          "To authenticate users and maintain signed-in sessions.",
+          "To respond to travel enquiries and understand travel requirements.",
+          "To provide enquiry-related communications and service updates.",
+          "To display and manage user-submitted reviews.",
+          "To maintain the security, reliability and operation of the website.",
+          "To investigate misuse, technical issues or unauthorized activity."
+        ]
+      },
+      {
+        "title": "7. How Information Is Stored",
+        "paragraphs": [
+          "Application data such as user profiles, travel enquiries and reviews may be stored in secure database infrastructure used by Rhino Tours & Travels.",
+          "Authentication information is handled through Firebase Authentication, while application records may be stored separately in our database.",
+          "Although reasonable security measures are used, no method of electronic storage or transmission over the internet can be guaranteed to be completely secure."
+        ]
+      },
+      {
+        "title": "8. Service Providers",
+        "paragraphs": [
+          "We use third-party technology providers to operate parts of the website and its services. These may include authentication providers, database and hosting services, email services and communication platforms.",
+          "These providers may process limited information when necessary to deliver the services they provide to us. Their handling of information is also subject to their own privacy and security practices."
+        ]
+      },
+      {
+        "title": "9. Sharing of Personal Information",
+        "paragraphs": [
+          "Rhino Tours & Travels does not sell personal information.",
+          "Personal information may be shared only when reasonably necessary to provide requested services, operate the website, work with relevant service providers, comply with legal obligations or protect the security and rights of users and the business."
+        ]
+      },
+      {
+        "title": "10. Browser Storage and Session Information",
+        "paragraphs": [
+          "The website and services used by it may use cookies, browser storage or similar technologies when necessary for authentication, session management, language preferences and other essential website functionality.",
+          "These technologies help the website remember certain settings and maintain features such as signed-in sessions."
+        ]
+      },
+      {
+        "title": "11. Data Retention",
+        "paragraphs": [
+          "Personal information is retained only for as long as reasonably necessary for the purposes for which it was collected, to provide services, maintain relevant business records, resolve disputes, prevent misuse or meet applicable legal obligations.",
+          "Retention periods may vary depending on the type of information and the purpose for which it is stored."
+        ]
+      },
+      {
+        "title": "12. Your Choices and Requests",
+        "paragraphs": [
+          "You may contact Rhino Tours & Travels if you would like to ask about personal information associated with you or request that inaccurate information be corrected or that eligible information be deleted.",
+          "Some information may need to be retained where required for security, record-keeping, dispute resolution or applicable legal obligations."
+        ]
+      },
+      {
+        "title": "13. External Services and Links",
+        "paragraphs": [
+          "The website may include links to or integrations with third-party websites and services. Rhino Tours & Travels is not responsible for the privacy practices of external websites or services that we do not control.",
+          "You should review the privacy policies of those services before providing personal information to them."
+        ]
+      },
+      {
+        "title": "14. Security",
+        "paragraphs": [
+          "We use reasonable technical and organizational measures intended to protect personal information against unauthorized access, misuse, alteration or loss.",
+          "Users are also responsible for protecting access to their accounts and should avoid sharing account credentials with others."
+        ]
+      },
+      {
+        "title": "15. Changes to This Privacy Policy",
+        "paragraphs": [
+          "This Privacy Policy may be updated when website features, data practices, service providers or legal requirements change. The latest version will be published on this page with the date of the most recent update."
+        ]
+      }
+    ],
+
+    "contact": {
+      "title": "Privacy Questions",
+      "description": "If you have questions about this Privacy Policy or how your personal information is handled, please contact Rhino Tours & Travels using the contact information provided on our website."
+    }
+  },
+  "notFound": {
+    "eyebrow": "Lost Along The Way?",
+    "title": "This Route Doesn't Exist",
+    "description": "The page you're looking for may have moved, been removed or never existed. Let's get you back to exploring Northeast India.",
+    "home": "Back to Home",
+    "destinations": "Explore Destinations"
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Let's Connect",
+      "title": "Let's Plan Your Northeast Journey",
+      "description": "Have a question, need help planning a trip or simply want to know more about a destination? Send us a message and we'll help you take the next step."
+    },
+    "info": {
+      "eyebrow": "Get In Touch",
+      "title": "We're Here to Help",
+      "description": "Whether you're still exploring ideas or already planning your journey, reach out and our team will be happy to assist you.",
+      "pending": "Details will be updated soon",
+      "phone": {
+        "title": "Call Us",
+        "description": "Speak directly with our team for travel enquiries and assistance."
+      },
+      "email": {
+        "title": "Email Us",
+        "description": "Send us your questions or travel requirements and we'll get back to you."
+      },
+      "office": {
+        "title": "Visit Our Office",
+        "description": "Our office details will be added once the final business information is confirmed."
+      }
+    },
+    "hours": {
+      "title": "Need Travel Assistance?",
+      "description": "Send us your enquiry anytime. Our team will respond as soon as possible during business hours."
+    },
+    "form": {
+      "eyebrow": "Send A Message",
+      "title": "How Can We Help?",
+      "description": "Tell us what you're looking for and we'll help you with the right information for your journey.",
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "Enter your email address",
+      "phone": "Phone Number",
+      "phonePlaceholder": "Enter your phone number",
+      "subject": "Enquiry Type",
+      "subjectPlaceholder": "Select an enquiry type",
+      "message": "Message",
+      "messagePlaceholder": "Tell us how we can help...",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Your message has been sent successfully.",
+      "error": "Unable to send your message right now. Please try again.",
+
+      "subjects": {
+        "general": "General Enquiry",
+        "trip": "Plan a Trip",
+        "booking": "Existing Booking",
+        "feedback": "Feedback"
+      }
+    },
+    "cta": {
+      "eyebrow": "Start Exploring",
+      "title": "Your Northeast Adventure Starts With a Conversation",
+      "description": "Share your travel ideas with us and we'll help turn them into a journey designed around you.",
+      "button": "Send an Enquiry"
+    }
+  },
+  "destinationPage": {
+    "eyebrow": "Explore The Northeast",
+    "title": "Find Your Next Destination",
+    "description": "From wildlife-rich forests and crystal-clear rivers to mountain passes, living root bridges and ancient monasteries — discover the places that make Northeast India unforgettable.",
+
+    "filters": {
+      "all": "All Destinations",
+      "assam": "Assam",
+      "meghalaya": "Meghalaya",
+      "arunachalPradesh": "Arunachal Pradesh"
+    },
+
+    "resultCount_one": "{{count}} destination",
+    "resultCount_other": "{{count}} destinations",
+    "explore": "Explore Destination",
+
+    "noResults": {
+      "title": "No destinations found",
+      "description": "We couldn't find a destination matching your current search or filters."
+    },
+
+    "cta": {
+      "eyebrow": "Plan Your Journey",
+      "title": "Not Sure Where Your Northeast Journey Should Begin?",
+      "description": "Tell us what kind of experience you're looking for and we'll help you plan a journey that suits you.",
+      "button": "Plan Your Journey"
+    }
+  },
+  "hero": {
+    "eyebrow": "Untamed Beauty Awaits",
+    "title": "Discover Northeast India",
+    "description": "Wildlife, culture, mountains and timeless traditions — travel with purpose, discover with Rhino Tours and Travels.",
+    "button": "Explore Destinations",
+    "carouselLabel": "Featured destinations",
+    "previousSlide": "Previous slide",
+    "nextSlide": "Next slide",
+    "slideNavigation": "Slide navigation",
+    "goToSlide": "Go to slide {{number}}",
+    "goToLocation": "Go to {{location}}"
+  },
+  "enquiry": {
+    "eyebrow": "Plan Your Journey",
+    "title": "Plan Your Next Journey",
+    "freeEnquiry": "Get a Free Enquiry",
+    "submitSuccess": "Your enquiry has been submitted successfully.",
+    "submitError": "We couldn't submit your enquiry. Please try again.",
+    "whatsappConsent": "I agree to receive updates about my enquiry on WhatsApp.",
+
+    "tripType": "Trip Type",
+    "tripTypePlaceholder": "Select Trip Type",
+    "tripTypes": {
+      "leisure": "Leisure Trip",
+      "adventure": "Adventure Trip",
+      "wildlife": "Wildlife Tour",
+      "cultural": "Cultural Tour"
+    },
+
+    "destination": "Preferred Destination",
+    "destinationPlaceholder": "Select Destination",
+    "destinations": {
+      "assam": "Assam",
+      "meghalaya": "Meghalaya",
+      "arunachalPradesh": "Arunachal Pradesh"
+    },
+
+    "startDate": "Start Date",
+    "endDate": "End Date",
+
+    "travellers": "Travellers",
+
+    "travellerCount_one": "{{count}} Traveller",
+    "travellerCount_other": "{{count}} Travellers",
+
+    "name": "Name",
+    "namePlaceholder": "Your Name",
+
+    "email": "Email",
+    "emailPlaceholder": "Your Email",
+
+    "phone": "Phone Number",
+    "phonePlaceholder": "+91 98765 43210",
+
+    "message": "Message",
+    "messagePlaceholder": "Tell us about your travel plans or requirements",
+
+    "submit": "Send Enquiry"
+  },
+  "destinations": {
+    "eyebrow": "Popular Destinations",
+    "title": "Extraordinary Places, Unforgettable Experiences",
+    "description": "From wildlife safaris to living root bridges, monasteries to misty mountains — explore the magic of Northeast India with us.",
+    "viewAll": "View All Destinations",
+
+    "items": {
+      "kaziranga": {
+        "name": "Kaziranga National Park",
+        "state": "Assam",
+        "description": "Explore the grasslands and forests of Kaziranga, home to the iconic one-horned rhinoceros and remarkable wildlife."
+      },
+      "dawki": {
+        "name": "Dawki",
+        "state": "Meghalaya",
+        "description": "Experience the crystal-clear waters of the Umngot River surrounded by the lush landscapes of Meghalaya."
+      },
+      "selaPass": {
+        "name": "Sela Pass",
+        "state": "Arunachal Pradesh",
+        "description": "Journey through breathtaking high-altitude landscapes, snow-covered mountains and the serene Sela Lake."
+      },
+      "nongriat": {
+        "name": "Nongriat",
+        "state": "Meghalaya",
+        "description": "Walk through rainforest trails and discover Meghalaya's extraordinary living root bridges."
+      },
+      "tawang": {
+        "name": "Tawang",
+        "state": "Arunachal Pradesh",
+        "description": "Discover mountain landscapes, Buddhist heritage and the historic Tawang Monastery."
+      },
+      "cherrapunji": {
+        "name": "Cherrapunji",
+        "state": "Meghalaya",
+        "description": "Explore dramatic waterfalls, mist-covered hills, caves and some of Meghalaya's most spectacular scenery."
+      }
+    }
+  },
+  "stats": {
+    "travelers": {
+      "value": "1000+",
+      "label": "Happy Travelers"
+    },
+    "destinations": {
+      "value": "50+",
+      "label": "Curated Destinations"
+    },
+    "experience": {
+      "value": "5+ Years",
+      "label": "Trusted Travel Partner"
+    },
+    "sustainable": {
+      "value": "Sustainable Travel",
+      "label": "People • Nature • Culture"
+    }
+  },
+  "footer": {
+    "description": "Discover the beauty, culture and adventure of Northeast India with locally crafted journeys and memorable experiences.",
+    "quickLinks": "Quick Links",
+    "explore": "Explore",
+    "contact": "Contact Us",
+    "address": "Guwahati, Assam, India",
+    "contactUs": "Get In Touch",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions"
+  },
+  "reviews": {
+    "eyebrow": "Traveler Stories",
+    "title": "What Our Travelers Say",
+    "description": "Real stories and experiences shared by travelers who explored Northeast India with us.",
+    "postReview": "Post a Review",
+    "reviewCount_one": "{{count}} review",
+    "reviewCount_other": "{{count}} reviews",
+    "ratingLabel": "{{rating}} out of 5 stars",
+    "loading": "Loading reviews...",
+    "loadError": "Unable to load reviews right now.",
+
+    "form": {
+      "eyebrow": "Share Your Experience",
+      "title": "Write a Review",
+      "description": "Tell other travelers about your experience with Rhino Tours & Travels.",
+      "rating": "Your Rating",
+      "location": "Your Location",
+      "optional": "Optional",
+      "locationPlaceholder": "e.g. Guwahati, Assam",
+      "comment": "Your Review",
+      "commentPlaceholder": "Share your travel experience...",
+      "submit": "Submit Review",
+      "close": "Close review form",
+      "ratingOption": "Rate {{rating}} out of 5",
+      "submitting": "Submitting...",
+      "submitError": "Unable to submit your review. Please try again."
+    }
+  },
+  "form": {
+    "eyebrow": "Share Your Experience",
+    "title": "Write a Review",
+    "description": "Tell other travelers about your experience with Rhino Tours & Travels.",
+    "rating": "Your Rating",
+    "location": "Your Location",
+    "optional": "Optional",
+    "locationPlaceholder": "e.g. Guwahati, Assam",
+    "comment": "Your Review",
+    "commentPlaceholder": "Share your travel experience...",
+    "submit": "Submit Review"
+  },
+  "auth": {
+    "name": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "email": "Email Address",
+    "emailPlaceholder": "Enter your email",
+    "password": "Password",
+    "passwordPlaceholder": "Create a password",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Confirm your password",
+    "or": "OR",
+    "loginLink": "Login",
+
+    "showPassword": "Show password",
+    "hidePassword": "Hide password",
+    "passwordMismatch": "Passwords do not match.",
+
+    "signup": {
+      "eyebrow": "Start Your Journey",
+      "title": "Create Your Account",
+      "description": "Create an account to plan trips, share your experiences and explore Northeast India with us.",
+      "button": "Create Account",
+      "google": "Continue with Google",
+      "hasAccount": "Already have an account?",
+      "imageEyebrow": "Explore Northeast India",
+      "imageTitle": "Your next unforgettable journey starts here.",
+      "imageDescription": "Discover wildlife, mountains, cultures and experiences crafted around the beauty of Northeast India."
+    },
+    "login": {
+      "eyebrow": "Welcome Back",
+      "title": "Login to Your Account",
+      "description": "Continue planning your journey and discovering unforgettable experiences across Northeast India.",
+      "passwordPlaceholder": "Enter your password",
+      "forgotPassword": "Forgot Password?",
+      "button": "Login",
+      "google": "Continue with Google",
+      "noAccount": "Don't have an account?",
+      "imageEyebrow": "Welcome Back",
+      "imageTitle": "Your next Northeast adventure is waiting.",
+      "imageDescription": "Return to your journey and continue discovering the landscapes, cultures and experiences of Northeast India.",
+      "enterEmailFirst": "Enter your email address first.",
+      "resetSuccess": "Password reset email sent. Please check your inbox.",
+      "sendingReset": "Sending..."
+    },
+    "signupLink": "Sign Up"
+  },
+  "about": {
+    "eyebrow": "About Rhino Tours & Travels",
+    "title": "Discover Northeast India With People Who Know It",
+    "descriptionOne": "Rhino Tours & Travels is dedicated to creating meaningful journeys across Northeast India, bringing travelers closer to its landscapes, wildlife, cultures and communities.",
+    "descriptionTwo": "From the grasslands of Assam to the mountains of Arunachal Pradesh and the waterfalls of Meghalaya, we aim to make every journey comfortable, personal and memorable.",
+    "imageAlt": "Scenic landscape of Northeast India",
+    "badgeEyebrow": "Locally Rooted",
+    "badgeTitle": "Northeast India",
+
+    "quote": "We believe the best journeys are not only about the places you visit, but also the people, stories and experiences you discover along the way.",
+
+    "values": {
+      "eyebrow": "Why Travel With Us",
+      "title": "Journeys Designed With Purpose",
+      "description": "We combine local knowledge, thoughtful planning and responsible travel to create experiences that feel personal and authentic.",
+
+      "items": {
+        "local": {
+          "title": "Local Expertise",
+          "description": "Travel with insights shaped by people who understand the places, routes and cultures of Northeast India."
+        },
+        "personal": {
+          "title": "Personalized Journeys",
+          "description": "Trips are planned around your interests, travel style and the experiences you want to remember."
+        },
+        "responsible": {
+          "title": "Responsible Travel",
+          "description": "We encourage travel that respects local communities, traditions, wildlife and the natural environment."
+        },
+        "care": {
+          "title": "Travel With Care",
+          "description": "From planning to the journey itself, we focus on making your experience comfortable and well supported."
+        }
+      }
+    },
+
+    "closing": {
+      "eyebrow": "Explore With Us",
+      "title": "More Than a Trip, A Northeast Experience",
+      "description": "Whether you are looking for wildlife, mountains, culture or adventure, we are here to help you experience Northeast India in a way that stays with you."
+    }
+  },
+  "destinationDetails": {
+    "notFound": {
+      "title": "Destination Not Found",
+      "description": "The destination you're looking for could not be found.",
+      "button": "View All Destinations"
+    },
+
+    "aboutEyebrow": "Discover The Destination",
+    "bestTime": "Best Time to Visit",
+    "duration": "Recommended Duration",
+
+    "highlightsEyebrow": "Things To Experience",
+    "highlightsTitle": "Destination Highlights",
+
+    "itinerary": {
+      "eyebrow": "Your Journey",
+      "title": "Suggested Itinerary",
+      "description": "A suggested flow to help you imagine how your journey could unfold. Timings and activities can be adjusted based on your travel plan.",
+      "day": "Day {{count}}"
+    },
+
+    "highlights": {
+      "safari": "Wildlife Safari",
+      "wildlife": "Wildlife",
+      "birdWatching": "Bird Watching",
+      "localCulture": "Local Culture",
+      "boating": "Boating",
+      "river": "River Experience",
+      "nature": "Nature",
+      "photography": "Photography",
+      "mountains": "Mountain Views",
+      "snow": "Snow Landscapes",
+      "lake": "Mountain Lakes",
+      "roadJourney": "Scenic Road Journey",
+      "rootBridges": "Living Root Bridges",
+      "trekking": "Trekking",
+      "rainforest": "Rainforest Trails",
+      "waterfalls": "Waterfalls",
+      "monastery": "Monasteries",
+      "culture": "Local Heritage",
+      "caves": "Caves"
+    },
+
+    "reachEyebrow": "Plan Your Route",
+    "reachTitle": "How To Reach",
+    "air": "By Air",
+    "rail": "By Rail",
+    "road": "By Road",
+
+    "tours": {
+      "eyebrow": "Explore More",
+      "title": "Experience This Destination With Us",
+      "description": "Discover thoughtfully planned tours and journeys designed around this destination and the surrounding region.",
+      "button": "Plan Your Journey"
+    },
+
+    "items": {
+      "kaziranga": {
+        "name": "Kaziranga National Park",
+        "state": "Assam",
+        "tagline": "Where the wild heart of Assam comes alive.",
+        "aboutTitle": "Into The Wilds Of Kaziranga",
+        "descriptionOne": "Kaziranga National Park is one of Assam's most celebrated wildlife destinations, known for its vast grasslands, wetlands and rich biodiversity.",
+        "descriptionTwo": "The park is especially famous for the greater one-horned rhinoceros, while elephants, wild buffalo, deer and an extraordinary variety of birds also make every visit memorable.",
+        "bestTime": "November – April",
+        "duration": "2 – 3 Days",
+        "reach": {
+          "air": "Travel via Guwahati, Jorhat or another nearby airport and continue to Kaziranga by road.",
+          "rail": "Nearby railway stations connect the region with major cities in Assam, followed by a road transfer to Kaziranga.",
+          "road": "Kaziranga is well connected by road with Guwahati, Jorhat, Tezpur and other major towns of Assam."
+        },
+        "itinerary": {
+          "day1": {
+            "title": "Arrival & Welcome to Kaziranga",
+            "stops": {
+              "pickup": {
+                "time": "7:00 AM",
+                "title": "Pickup from Guwahati",
+                "description": "Meet your driver and begin the scenic road journey towards Kaziranga."
+              },
+              "breakfast": {
+                "time": "9:00 AM",
+                "title": "Breakfast Stop",
+                "description": "Take a relaxed breakfast break along the route."
+              },
+              "arrival": {
+                "time": "1:00 PM",
+                "title": "Arrive at Kaziranga",
+                "description": "Reach Kaziranga and proceed towards your accommodation."
+              },
+              "lunch": {
+                "time": "2:00 PM",
+                "title": "Lunch & Refresh",
+                "description": "Enjoy lunch and some time to relax after the journey."
+              },
+              "culture": {
+                "time": "5:00 PM",
+                "title": "Evening Cultural Experience",
+                "description": "Spend the evening discovering a glimpse of local Assamese culture and surroundings."
+              },
+              "stay": {
+                "time": "8:00 PM",
+                "title": "Dinner & Overnight Stay",
+                "description": "Return to your stay for dinner and rest before the wildlife experience."
+              }
+            }
+          },
+
+          "day2": {
+            "title": "Safari & Local Exploration",
+            "stops": {
+              "safari": {
+                "time": "6:00 AM",
+                "title": "Morning Jeep Safari",
+                "description": "Begin the day with an early wildlife safari through Kaziranga National Park."
+              },
+              "breakfast": {
+                "time": "9:30 AM",
+                "title": "Breakfast",
+                "description": "Return after the safari and enjoy breakfast."
+              },
+              "explore": {
+                "time": "11:00 AM",
+                "title": "Explore the Surroundings",
+                "description": "Visit nearby local attractions, natural areas or cultural spots around Kaziranga."
+              },
+              "lunch": {
+                "time": "1:30 PM",
+                "title": "Lunch",
+                "description": "Take a lunch break before continuing the day's experiences."
+              },
+              "evening": {
+                "time": "4:30 PM",
+                "title": "Evening at Leisure",
+                "description": "Relax, explore the surroundings or enjoy another local experience."
+              },
+              "stay": {
+                "time": "8:00 PM",
+                "title": "Dinner & Overnight Stay",
+                "description": "End the day with dinner and a comfortable overnight stay."
+              }
+            }
+          }
+        }
+      },
+
+      "dawki": {
+        "name": "Dawki",
+        "state": "Meghalaya",
+        "itinerary": {
+          "day1": {
+            "title": "Dawki River & Riverside Experience",
+            "stops": {
+              "pickup": {
+                "time": "7:00 AM",
+                "title": "Pickup from Shillong",
+                "description": "Begin your scenic road journey from Shillong towards Dawki through the hills of Meghalaya."
+              },
+              "breakfast": {
+                "time": "8:30 AM",
+                "title": "Breakfast Stop",
+                "description": "Take a relaxed breakfast break along the way."
+              },
+              "arrival": {
+                "time": "10:30 AM",
+                "title": "Arrive at Dawki",
+                "description": "Reach Dawki and head towards the beautiful Umngot River."
+              },
+              "boating": {
+                "time": "11:00 AM",
+                "title": "Umngot River Boating",
+                "description": "Enjoy a peaceful boat ride on the crystal-clear waters of the Umngot River."
+              },
+              "lunch": {
+                "time": "1:30 PM",
+                "title": "Lunch by the Riverside",
+                "description": "Take a break for lunch while enjoying the surrounding landscapes."
+              },
+              "explore": {
+                "time": "3:00 PM",
+                "title": "Explore the Riverside",
+                "description": "Spend time exploring nearby viewpoints, riverside areas and the natural surroundings."
+              },
+              "return": {
+                "time": "5:00 PM",
+                "title": "Return Journey",
+                "description": "Begin the scenic drive back towards Shillong after a relaxing day in Dawki."
+              }
+            }
+          }
+        },
+        "tagline": "Crystal-clear waters surrounded by the green hills of Meghalaya.",
+        "aboutTitle": "Where Rivers Meet The Hills",
+        "descriptionOne": "Dawki is a scenic border town in Meghalaya best known for the remarkably clear waters of the Umngot River.",
+        "descriptionTwo": "Boating, riverside landscapes and the surrounding hills make Dawki a peaceful destination for nature lovers, photographers and travelers exploring southern Meghalaya.",
+        "bestTime": "October – April",
+        "duration": "1 – 2 Days",
+        "reach": {
+          "air": "Travel through Shillong or Guwahati and continue toward Dawki by road.",
+          "rail": "Guwahati is the main railway gateway, followed by a road journey through Meghalaya.",
+          "road": "Dawki can be reached by road from Shillong and other major destinations across Meghalaya."
+        }
+      },
+
+      "selaPass": {
+        "name": "Sela Pass",
+        "state": "Arunachal Pradesh",
+        "itinerary": {
+          "day1": {
+            "title": "Mountain Journey Through Sela Pass",
+            "stops": {
+              "pickup": {
+                "time": "7:00 AM",
+                "title": "Departure from Dirang",
+                "description": "Begin the mountain journey from Dirang towards Sela Pass and Tawang."
+              },
+              "breakfast": {
+                "time": "8:00 AM",
+                "title": "Breakfast Stop",
+                "description": "Enjoy breakfast before continuing further into the high-altitude mountain route."
+              },
+              "drive": {
+                "time": "9:30 AM",
+                "title": "Scenic Mountain Drive",
+                "description": "Travel through winding Himalayan roads surrounded by dramatic valleys and mountain landscapes."
+              },
+              "arrival": {
+                "time": "11:00 AM",
+                "title": "Arrive at Sela Pass",
+                "description": "Reach the high-altitude Sela Pass and take time to enjoy the surrounding Himalayan scenery."
+              },
+              "lake": {
+                "time": "11:30 AM",
+                "title": "Visit Sela Lake",
+                "description": "Spend some time near the peaceful mountain lake and capture the surrounding views."
+              },
+              "lunch": {
+                "time": "1:30 PM",
+                "title": "Lunch Stop",
+                "description": "Take a break for lunch before continuing the journey towards Tawang."
+              },
+              "tawang": {
+                "time": "3:00 PM",
+                "title": "Continue Towards Tawang",
+                "description": "Resume the scenic drive through the mountains and continue onward towards Tawang."
+              }
+            }
+          }
+        },
+        "tagline": "A breathtaking journey through the high Himalayas.",
+        "aboutTitle": "Above The Clouds At Sela",
+        "descriptionOne": "Sela Pass is a spectacular high-altitude mountain pass on the route toward Tawang, surrounded by rugged peaks and dramatic Himalayan scenery.",
+        "descriptionTwo": "The journey offers snow-covered landscapes during colder months, mountain lakes and unforgettable views that make the road to Tawang an experience in itself.",
+        "bestTime": "March – June & September – November",
+        "duration": "1 Day En Route",
+        "reach": {
+          "air": "Travel toward Arunachal Pradesh through nearby regional airports or Guwahati and continue by road.",
+          "rail": "Rail travelers generally enter the region through Assam before continuing toward Tawang by road.",
+          "road": "Sela Pass lies on the road to Tawang and is reached through a scenic mountain drive via western Arunachal Pradesh."
+        }
+      },
+
+      "nongriat": {
+        "name": "Nongriat",
+        "state": "Meghalaya",
+        "itinerary": {
+          "day1": {
+            "title": "Living Root Bridge Trek",
+            "stops": {
+              "pickup": {
+                "time": "7:00 AM",
+                "title": "Departure from Cherrapunji",
+                "description": "Begin the day with a short road journey towards the trekking point for Nongriat."
+              },
+              "breakfast": {
+                "time": "8:00 AM",
+                "title": "Breakfast",
+                "description": "Enjoy breakfast before beginning the trek into the rainforest."
+              },
+              "trailhead": {
+                "time": "9:00 AM",
+                "title": "Reach the Trailhead",
+                "description": "Arrive at the starting point and prepare for the descent towards Nongriat village."
+              },
+              "trek": {
+                "time": "9:30 AM",
+                "title": "Rainforest Trek",
+                "description": "Walk through forest trails, steps, streams and traditional village paths on the way to Nongriat."
+              },
+              "bridge": {
+                "time": "11:30 AM",
+                "title": "Living Root Bridge Experience",
+                "description": "Reach the famous living root bridge and spend time exploring the remarkable natural surroundings."
+              },
+              "lunch": {
+                "time": "1:00 PM",
+                "title": "Lunch & Rest",
+                "description": "Take a well-earned break for lunch and some rest before continuing the journey."
+              },
+              "explore": {
+                "time": "2:30 PM",
+                "title": "Explore Nongriat",
+                "description": "Spend time exploring nearby forest trails, streams and scenic spots around the village."
+              },
+              "return": {
+                "time": "4:00 PM",
+                "title": "Return Trek",
+                "description": "Begin the uphill trek back towards the trailhead and return to Cherrapunji."
+              }
+            }
+          }
+        },
+        "tagline": "Deep in the rainforest, nature builds bridges of its own.",
+        "aboutTitle": "The Living Landscapes Of Nongriat",
+        "descriptionOne": "Nongriat is a small village hidden within the lush hills of Meghalaya, famous for its extraordinary living root bridges.",
+        "descriptionTwo": "Reaching the village involves a rewarding trek through rainforest paths, streams and traditional settlements, making the journey as memorable as the destination itself.",
+        "bestTime": "October – April",
+        "duration": "1 – 2 Days",
+        "reach": {
+          "air": "Travel through Shillong or Guwahati before continuing toward Cherrapunji and the trekking point by road.",
+          "rail": "Guwahati is the primary railway gateway, followed by a road journey into Meghalaya.",
+          "road": "Drive toward the trailhead near Cherrapunji and continue to Nongriat on foot through the forest route."
+        }
+      },
+
+      "tawang": {
+        "name": "Tawang",
+        "state": "Arunachal Pradesh",
+        "itinerary": {
+          "day1": {
+            "title": "Arrival, Monastery & Local Tawang",
+            "stops": {
+              "arrival": {
+                "time": "10:00 AM",
+                "title": "Arrive in Tawang",
+                "description": "Reach Tawang and take in your first views of the surrounding Himalayan landscape."
+              },
+              "checkin": {
+                "time": "11:00 AM",
+                "title": "Hotel Check-in & Refresh",
+                "description": "Check in to your stay and take some time to rest after the mountain journey."
+              },
+              "lunch": {
+                "time": "1:00 PM",
+                "title": "Lunch",
+                "description": "Enjoy lunch before beginning the afternoon sightseeing."
+              },
+              "monastery": {
+                "time": "2:30 PM",
+                "title": "Visit Tawang Monastery",
+                "description": "Explore the historic monastery and experience the peaceful Buddhist heritage of the region."
+              },
+              "evening": {
+                "time": "5:00 PM",
+                "title": "Explore Local Tawang",
+                "description": "Spend the evening around the town, local market and surrounding viewpoints."
+              },
+              "stay": {
+                "time": "8:00 PM",
+                "title": "Dinner & Overnight Stay",
+                "description": "Return to your stay for dinner and a relaxed evening."
+              }
+            }
+          },
+
+          "day2": {
+            "title": "High-Altitude Lakes & Mountain Landscapes",
+            "stops": {
+              "breakfast": {
+                "time": "7:30 AM",
+                "title": "Breakfast",
+                "description": "Start the day with breakfast before heading into the mountains."
+              },
+              "drive": {
+                "time": "8:30 AM",
+                "title": "Mountain Excursion",
+                "description": "Begin a scenic drive through high-altitude roads surrounded by dramatic Himalayan scenery."
+              },
+              "lake": {
+                "time": "10:30 AM",
+                "title": "Visit a High-Altitude Lake",
+                "description": "Spend time beside one of the beautiful mountain lakes around the Tawang region."
+              },
+              "lunch": {
+                "time": "1:00 PM",
+                "title": "Lunch Stop",
+                "description": "Take a break for lunch during the mountain excursion."
+              },
+              "viewpoints": {
+                "time": "2:30 PM",
+                "title": "Scenic Viewpoints",
+                "description": "Explore nearby mountain viewpoints and enjoy the open Himalayan landscapes."
+              },
+              "return": {
+                "time": "5:00 PM",
+                "title": "Return to Tawang",
+                "description": "Drive back towards Tawang after a day in the high mountains."
+              },
+              "stay": {
+                "time": "8:00 PM",
+                "title": "Dinner & Overnight Stay",
+                "description": "Enjoy dinner and rest for the final day of exploration."
+              }
+            }
+          },
+
+          "day3": {
+            "title": "Culture, Local Life & Departure",
+            "stops": {
+              "breakfast": {
+                "time": "8:00 AM",
+                "title": "Breakfast",
+                "description": "Begin the final day with a relaxed breakfast."
+              },
+              "heritage": {
+                "time": "9:00 AM",
+                "title": "Explore Local Heritage",
+                "description": "Discover more of Tawang's Buddhist heritage, local history and traditional surroundings."
+              },
+              "local": {
+                "time": "11:00 AM",
+                "title": "Local Market & Town Walk",
+                "description": "Take a leisurely walk through the town and explore local shops and everyday life."
+              },
+              "lunch": {
+                "time": "1:00 PM",
+                "title": "Lunch",
+                "description": "Enjoy lunch before wrapping up the Tawang experience."
+              },
+              "leisure": {
+                "time": "2:30 PM",
+                "title": "Leisure & Scenic Stop",
+                "description": "Spend some final time enjoying the mountain views or relaxing before departure."
+              },
+              "departure": {
+                "time": "4:00 PM",
+                "title": "Begin the Return Journey",
+                "description": "Start your onward journey with memories of Tawang's mountains, culture and landscapes."
+              }
+            }
+          }
+        },
+        "tagline": "Monasteries, mountains and timeless Himalayan culture.",
+        "aboutTitle": "Discover The Spirit Of Tawang",
+        "descriptionOne": "Tawang is a remarkable mountain destination in Arunachal Pradesh known for its Buddhist heritage, dramatic landscapes and peaceful atmosphere.",
+        "descriptionTwo": "From historic monasteries and mountain lakes to remote villages and high-altitude roads, Tawang offers a unique blend of culture, spirituality and Himalayan adventure.",
+        "bestTime": "March – June & September – November",
+        "duration": "3 – 4 Days",
+        "reach": {
+          "air": "Travel through regional airports in Assam or Guwahati before continuing toward Tawang by road.",
+          "rail": "Rail travelers generally reach western Assam first and continue into Arunachal Pradesh by road.",
+          "road": "Tawang is reached through a long but spectacular mountain journey passing through western Arunachal Pradesh and Sela Pass."
+        }
+      },
+
+      "cherrapunji": {
+        "name": "Cherrapunji",
+        "state": "Meghalaya",
+        "itinerary": {
+          "day1": {
+            "title": "Waterfalls, Caves & Khasi Hills",
+            "stops": {
+              "pickup": {
+                "time": "7:30 AM",
+                "title": "Departure from Shillong",
+                "description": "Begin the scenic drive from Shillong towards Cherrapunji through the rolling Khasi Hills."
+              },
+              "breakfast": {
+                "time": "8:30 AM",
+                "title": "Breakfast Stop",
+                "description": "Enjoy breakfast along the route before continuing deeper into the hills."
+              },
+              "waterfall": {
+                "time": "10:30 AM",
+                "title": "Waterfall Experience",
+                "description": "Visit one of Cherrapunji's dramatic waterfalls and enjoy the surrounding valley views."
+              },
+              "lunch": {
+                "time": "1:00 PM",
+                "title": "Lunch",
+                "description": "Take a relaxed lunch break before continuing the afternoon exploration."
+              },
+              "cave": {
+                "time": "2:30 PM",
+                "title": "Explore a Cave",
+                "description": "Discover one of the fascinating caves around Cherrapunji and experience its unique rock formations."
+              },
+              "viewpoint": {
+                "time": "4:30 PM",
+                "title": "Scenic Viewpoint",
+                "description": "Spend the late afternoon enjoying panoramic views across the Khasi Hills."
+              },
+              "stay": {
+                "time": "7:30 PM",
+                "title": "Dinner & Overnight Stay",
+                "description": "Check in, enjoy dinner and relax after a day of exploring Cherrapunji."
+              }
+            }
+          },
+
+          "day2": {
+            "title": "Nature Trails & Living Landscapes",
+            "stops": {
+              "breakfast": {
+                "time": "8:00 AM",
+                "title": "Breakfast",
+                "description": "Start the second day with breakfast before heading out into the surrounding countryside."
+              },
+              "nature": {
+                "time": "9:00 AM",
+                "title": "Nature Trail",
+                "description": "Walk through green trails and enjoy the misty landscapes that make Cherrapunji unique."
+              },
+              "bridge": {
+                "time": "11:00 AM",
+                "title": "Living Root Bridge Experience",
+                "description": "Visit a living root bridge and discover how local communities have shaped these remarkable natural structures."
+              },
+              "lunch": {
+                "time": "1:30 PM",
+                "title": "Lunch",
+                "description": "Take a break for lunch after the morning exploration."
+              },
+              "explore": {
+                "time": "3:00 PM",
+                "title": "Explore Local Surroundings",
+                "description": "Spend some time visiting nearby villages, viewpoints or natural attractions."
+              },
+              "return": {
+                "time": "5:00 PM",
+                "title": "Return Journey",
+                "description": "Begin the scenic drive back towards Shillong after completing the Cherrapunji experience."
+              }
+            }
+          }
+        },
+        "tagline": "Waterfalls, clouds and endless green horizons.",
+        "aboutTitle": "Where The Clouds Touch The Hills",
+        "descriptionOne": "Cherrapunji is one of Meghalaya's most iconic destinations, known for dramatic cliffs, waterfalls, caves and lush landscapes shaped by abundant rainfall.",
+        "descriptionTwo": "Its surrounding villages also offer access to living root bridges, forest trails and viewpoints that reveal the extraordinary natural beauty of the Khasi Hills.",
+        "bestTime": "October – May",
+        "duration": "2 – 3 Days",
+        "reach": {
+          "air": "Travel through Shillong or Guwahati and continue to Cherrapunji by road.",
+          "rail": "Guwahati is the nearest major railway gateway, followed by a road journey through Shillong.",
+          "road": "Cherrapunji is well connected to Shillong by a scenic drive through the Khasi Hills."
+        }
+      }
+    }
+  }
+}

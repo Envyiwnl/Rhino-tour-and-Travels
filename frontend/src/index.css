@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Cormorant+Garamond:wght@400;500;600;700&family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Noto+Sans+Bengali:wght@400;500;600;700&display=swap");
+
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "DM Sans", sans-serif;
+  --font-serif: "Cormorant Garamond", serif;
+  --font-script: "Caveat", cursive;
+
+  --color-brand-green: #123c34;
+
+  --color-brand-dark: #0b2f2a;
+
+  --color-brand-orange: #c45f35;
+
+  --color-brand-orange-dark: #a94d2a;
+
+  --color-brand-gold: #d7a14a;
+
+  --color-brand-cream: #f8f5ee;
+
+  --color-brand-cream-dark: #eee9df;
+
+  --color-brand-muted: #6f746f;
+
+  --color-brand-border: #ddd8ce;
+
+  --font-hindi: "Noto Sans Devanagari", sans-serif;
+  --font-assamese: "Noto Sans Bengali", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+
+  font-family: var(--font-sans);
+
+  background-color: var(--color-brand-cream);
+  color: var(--color-brand-dark);
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  overflow-x: hidden;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-serif);
+  color: var(--color-brand-dark);
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: #969b97;
+}
+
+input,
+textarea,
+select {
+  outline: none;
+}
+
+::selection {
+  background-color: var(--color-brand-orange);
+  color: white;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-brand-cream);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #a5aaa5;
+  border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-brand-green);
+}
