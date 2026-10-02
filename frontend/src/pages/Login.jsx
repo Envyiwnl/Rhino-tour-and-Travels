@@ -45,8 +45,8 @@ export default function Login() {
       await login(formData.email.trim(), formData.password);
       navigate("/");
     } catch (error) {
-      console.error(error);
-      setError(error.message);
+      console.error("Login failed:", error);
+      setError("auth.login.loginError");
     } finally {
       setLoading(null);
     }
@@ -61,8 +61,8 @@ export default function Login() {
       await loginWithGoogle();
       navigate("/");
     } catch (error) {
-      console.error(error);
-      setError(error.message);
+      console.error("Login failed:", error);
+      setError(t("auth.login.loginError"));
     } finally {
       setLoading(null);
     }
@@ -84,8 +84,8 @@ export default function Login() {
 
       setSuccess(t("auth.login.resetSuccess"));
     } catch (error) {
-      console.error(error);
-      setError(error.message);
+      console.error("Password reset failed:", error);
+      setError(t("auth.login.resetError"));
     } finally {
       setLoading(null);
     }

@@ -141,7 +141,7 @@ export default function Footer() {
               </div>
 
               <a
-                href="tel:+919876543210"
+                href="tel:+919854699300"
                 className="flex items-center gap-3 transition hover:text-white focus-visible:outline-none focus-visible:text-white"
               >
                 <Phone

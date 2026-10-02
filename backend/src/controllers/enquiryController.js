@@ -4,6 +4,8 @@ import {
   sendCustomerAcknowledgement,
 } from "../services/whatsappService.js";
 
+const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
 export const createEnquiry = async (req, res) => {
   try {
     const {
@@ -32,6 +34,15 @@ export const createEnquiry = async (req, res) => {
       return res.status(400).json({
         success: false,
         message: "Please provide all required fields.",
+      });
+    }
+
+    const cleanEmail = email.trim().toLowerCase();
+
+    if (!emailRegex.test(cleanEmail)) {
+      return res.status(400).json({
+        success: false,
+        message: "Please provide a valid email address.",
       });
     }
 
@@ -77,7 +88,7 @@ export const createEnquiry = async (req, res) => {
 
     const enquiry = await Enquiry.create({
       name: name.trim(),
-      email: email.trim(),
+      email: cleanEmail,
       phone: normalizedPhone,
       tripType,
       destination,

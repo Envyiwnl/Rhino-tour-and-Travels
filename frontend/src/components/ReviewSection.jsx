@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, useCallback } from "react";
 import ReviewCard from "./ReviewCard";
 import ReviewSummary from "./ReviewSummary";
 import ReviewForm from "./ReviewForm";
@@ -29,25 +29,22 @@ export default function ReviewsSection() {
   const [reviewsLoading, setReviewsLoading] = useState(true);
   const [reviewsError, setReviewsError] = useState("");
   const [isReviewFormOpen, setIsReviewFormOpen] = useState(false);
+  const [totalReviews, setTotalReviews] = useState(0);
+  const [averageRating, setAverageRating] = useState("0.0");
 
-  useEffect(() => {
-    if (!isAuthenticated) {
-      setIsReviewFormOpen(false);
-    }
-  }, [isAuthenticated]);
-
-  useEffect(() => {
-    const controller = new AbortController();
-
-    const fetchReviews = async () => {
+  const fetchReviews = useCallback(
+    async (signal, showLoading = true) => {
       try {
-        setReviewsLoading(true);
+        if (showLoading) {
+          setReviewsLoading(true);
+        }
+
         setReviewsError("");
 
         const response = await fetch(
           `${import.meta.env.VITE_API_URL}/api/reviews`,
           {
-            signal: controller.signal,
+            signal,
           },
         );
 
@@ -58,34 +55,38 @@ export default function ReviewsSection() {
         }
 
         setReviews((data.reviews || []).map(formatReview));
+        setTotalReviews(data.totalReviews || 0);
+        setAverageRating(Number(data.averageRating || 0).toFixed(1));
       } catch (error) {
         if (error.name === "AbortError") return;
 
         console.error("Unable to load reviews:", error);
         setReviewsError(t("reviews.loadError"));
       } finally {
-        if (!controller.signal.aborted) {
+        if (showLoading && !signal?.aborted) {
           setReviewsLoading(false);
         }
       }
-    };
+    },
+    [t],
+  );
 
-    fetchReviews();
+  useEffect(() => {
+    if (!isAuthenticated) {
+      setIsReviewFormOpen(false);
+    }
+  }, [isAuthenticated]);
+
+  useEffect(() => {
+    const controller = new AbortController();
+    const signal = controller.signal;
+
+    fetchReviews(signal);
 
     return () => {
       controller.abort();
     };
-  }, [t]);
-
-  const totalReviews = reviews.length;
-
-  const averageRating =
-    totalReviews > 0
-      ? (
-          reviews.reduce((total, review) => total + review.rating, 0) /
-          totalReviews
-        ).toFixed(1)
-      : "0.0";
+  }, [fetchReviews]);
 
   const handleReviewSubmit = async (formData) => {
     if (!user) {
@@ -116,9 +117,7 @@ export default function ReviewsSection() {
       throw new Error(data.message || "Unable to submit review.");
     }
 
-    const newReview = formatReview(data.review);
-
-    setReviews((prev) => [newReview, ...prev]);
+    await fetchReviews(undefined, false);
   };
 
   return (

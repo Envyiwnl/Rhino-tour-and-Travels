@@ -3,13 +3,50 @@ import User from "../models/User.js";
 
 export const getReviews = async (req, res) => {
   try {
-    const reviews = await Review.find()
-      .populate("user", "name photoURL")
-      .sort({ createdAt: -1 });
+    const [featuredReviews, stats] = await Promise.all([
+      Review.aggregate([
+        {
+          $match: {
+            rating: 5,
+          },
+        },
+        {
+          $sample: {
+            size: 6,
+          },
+        },
+      ]),
+
+      Review.aggregate([
+        {
+          $group: {
+            _id: null,
+            totalReviews: {
+              $sum: 1,
+            },
+            averageRating: {
+              $avg: "$rating",
+            },
+          },
+        },
+      ]),
+    ]);
+
+    const populatedReviews = await Review.populate(featuredReviews, {
+      path: "user",
+      select: "name photoURL",
+    });
+
+    const reviewStats = stats[0] || {
+      totalReviews: 0,
+      averageRating: 0,
+    };
 
     return res.status(200).json({
       success: true,
-      reviews,
+      reviews: populatedReviews,
+      totalReviews: reviewStats.totalReviews,
+      averageRating: reviewStats.averageRating,
     });
   } catch (error) {
     console.error("Get reviews failed:", error);
@@ -64,7 +101,7 @@ export const createReview = async (req, res) => {
           },
         },
         {
-          new: true,
+          returnDocument: "after",
           upsert: true,
           runValidators: true,
           setDefaultsOnInsert: true,

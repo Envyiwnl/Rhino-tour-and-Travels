@@ -560,7 +560,9 @@
       "hasAccount": "Already have an account?",
       "imageEyebrow": "Explore Northeast India",
       "imageTitle": "Your next unforgettable journey starts here.",
-      "imageDescription": "Discover wildlife, mountains, cultures and experiences crafted around the beauty of Northeast India."
+      "imageDescription": "Discover wildlife, mountains, cultures and experiences crafted around the beauty of Northeast India.",
+      "signupError": "Unable to create your account. Please try again.",
+      "googleError": "Unable to continue with Google. Please try again."
     },
     "login": {
       "eyebrow": "Welcome Back",
@@ -576,7 +578,10 @@
       "imageDescription": "Return to your journey and continue discovering the landscapes, cultures and experiences of Northeast India.",
       "enterEmailFirst": "Enter your email address first.",
       "resetSuccess": "Password reset email sent. Please check your inbox.",
-      "sendingReset": "Sending..."
+      "sendingReset": "Sending...",
+      "loginError": "Unable to sign in. Please check your details and try again.",
+      "googleError": "Unable to continue with Google. Please try again.",
+      "resetError": "Unable to send the password reset email. Please try again."
     },
     "signupLink": "Sign Up"
   },

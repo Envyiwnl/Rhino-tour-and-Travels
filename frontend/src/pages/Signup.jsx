@@ -56,8 +56,8 @@ export default function Signup() {
 
       navigate("/");
     } catch (error) {
-      console.error(error);
-      setError(error.message);
+      console.error("Signup failed:", error);
+      setError(t("auth.signup.signupError"));
     } finally {
       setLoading(null);
     }
@@ -72,8 +72,8 @@ export default function Signup() {
 
       navigate("/");
     } catch (error) {
-      console.error(error);
-      setError(error.message);
+      console.error("Google signup failed:", error);
+      setError(t("auth.signup.googleError"));
     } finally {
       setLoading(null);
     }
