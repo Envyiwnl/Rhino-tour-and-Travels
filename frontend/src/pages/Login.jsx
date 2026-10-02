@@ -46,7 +46,7 @@ export default function Login() {
       navigate("/");
     } catch (error) {
       console.error("Login failed:", error);
-      setError("auth.login.loginError");
+      setError(t("auth.login.loginError"));
     } finally {
       setLoading(null);
     }
@@ -61,8 +61,8 @@ export default function Login() {
       await loginWithGoogle();
       navigate("/");
     } catch (error) {
-      console.error("Login failed:", error);
-      setError(t("auth.login.loginError"));
+      console.error("Google login failed:", error);
+      setError(t("auth.login.googleError"));
     } finally {
       setLoading(null);
     }
