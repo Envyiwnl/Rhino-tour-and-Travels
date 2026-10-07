@@ -163,7 +163,7 @@ export default function Footer() {
                   className="shrink-0 text-brand-orange"
                 />
 
-                <span className="break-all">info@rhinotoursandtravels.com</span>
+                <span className="break-all">rhinotoursandtravel@gmail.com</span>
               </a>
             </address>
 
